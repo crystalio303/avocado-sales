@@ -17,10 +17,6 @@ The area that consumes the most avocadoes is not by state or a metropolitan area
 While the price of an avocado over years 2015 to 2018 remained almost the same, consumption increases steadily by the millions each year. For how many years will Americans eat avocadoes?
 
 Avocadoes bought by year
-2015	 4,296,599,236 	 88,869,426 
-2016	 4,690,249,813 	 130,640,079 
-2017	 4,766,165,793 	 168,139,906 
-2018	 1,334,206,069 	 48,532,271 
 ![image](https://user-images.githubusercontent.com/66132013/227395854-ea0d7dd9-ed18-4794-835c-9a9d1c4e6839.png)
 
 
